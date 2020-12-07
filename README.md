@@ -1,0 +1,2 @@
+# EmptyUnityProject
+To check .gitignore
